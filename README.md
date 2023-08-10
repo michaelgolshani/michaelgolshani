@@ -1,7 +1,25 @@
-### Hi there 👋
+### Hey there my fellow comrad 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div>
+  My name is Michael Golshani and I am a software engineer with a passion for creating products that can make a meaningful impact on people's lives.
+
+
+  With previous experience as a mechanical engineer, and ecommerce brand building, my story has come full circle now actually building software products that I used to use. 
+
+  If you are interested in connecting, let's chat! I love to connect and grow with like-minded individuals. 
+
+  Currently, open for work as well! 
+</div>
+<h2>
+  💻 MY Tech Stack 
+</h2>
+
+<div>
+ Javascript | Python | React | Redux | Html5 | CSS | Express.JS | Node.js | Flask | SQLite | Sequelize 
 </div>
 
 <div id="badges">
