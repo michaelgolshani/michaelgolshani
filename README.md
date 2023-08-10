@@ -14,13 +14,6 @@
 
   Currently, open for work as well! 
 </div>
-<h2>
-  💻 MY Tech Stack 
-</h2>
-
-<div>
- Javascript | Python | React | Redux | Html5 | CSS | Express.JS | Node.js | Flask | SQLite | Sequelize 
-</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/michaelgolshani/">
@@ -32,6 +25,30 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=michaelgolshani&style=flat-square&color=blue" alt=""/>
+
+<h2>
+  💻 MY Tech Stack 
+</h2>
+<div>
+ Javascript | Python | React | Redux | Html5 | CSS | Express.JS | Node.js | Flask | SQLite | Sequelize 
+</div>
+
+<br>
+
+<h2>
+  ⚡️ Fun Facts:
+</h2>
+<ul>
+  <li> Working out is second nature to me 💪🏽 </li>
+  <li> I have a passion for sunsets! 🌅 </li>
+  <li> Travleing the world and learning about other cultures is important to me </li>
+  <li> I used to do 3d design for fun. I always love anything with a good aesthetic to it such as a good UI as well </li>
+  <li> Interested in building apps for upcoming VR / AR / XR applications! </li>
+</ul>
+
+
+
+
 
 <!--
 **michaelgolshani/michaelgolshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
